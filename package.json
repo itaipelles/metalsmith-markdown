@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-markdown-fixed-marked",
   "description": "a fork of metalsmith-markdown with a fixed marked version",
-  "repository": "git@github.com:wix-private/metalsmith-markdown.git",
+  "repository": "git@github.com:itaipelles/metalsmith-markdown.git",
   "version": "0.2.2",
   "license": "MIT",
   "main": "lib/index.js",

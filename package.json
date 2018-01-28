@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-markdown-fixed-marked",
-  "description": "A Metalsmith plugin to convert markdown files.",
-  "repository": "git://github.com/segmentio/metalsmith-markdown.git",
+  "description": "a fork of metalsmith-markdown with a fixed marked version",
+  "repository": "git@github.com:wix-private/metalsmith-markdown.git",
   "version": "0.2.2",
   "license": "MIT",
   "main": "lib/index.js",
